@@ -11,6 +11,9 @@ The site of sport shoes for all kinds of people
 ## Author 
 Alina 
 
+## Branches 
+- Main
+- New developer
 
 
 
