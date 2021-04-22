@@ -11,7 +11,14 @@ The site of sport shoes for all kinds of people
 ## Author 
 Alina 
 
+
 ## License 
 MT
+
+## Branches 
+- Main
+- New developer
+
+
 
 
