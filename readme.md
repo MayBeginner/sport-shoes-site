@@ -8,5 +8,9 @@ The site of sport shoes for all kinds of people
 - Bootstrap
 - JQuery
 
+## Author 
+Alina 
+
+
 
 
